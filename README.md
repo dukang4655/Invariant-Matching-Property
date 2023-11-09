@@ -1,6 +1,6 @@
 # Invariant-Matching-Property
 
-Data Genertaion:
+Data Generation:
 
 Generate data for Experiment A-3 from [1].
 
@@ -13,7 +13,7 @@ Algorithm:
 
 IMP_inv_training.m: The IMP procedure for training.  
 IMP_training.m: The IMP_inv procedure for training.  
-IMP_testing.m: The testing algorihtm for IMP and IMP_inv. 
+IMP_testing.m: The testing algorithm for IMP and IMP_inv. 
 run_example.m: Run examples of Experiment A-3.
 
 
@@ -21,9 +21,9 @@ run_example.m: Run examples of Experiment A-3.
 Utility Functions:
 
 
-ols.m: Compute OLS estimaor.
-multi_ols.m: Compute OLS for each environemnt. 
-residual_test.m: Test the invaraince of the residual (prcedure II from [2]). 
+ols.m: Compute OLS estimator.
+multi_ols.m: Compute OLS for each environment. 
+residual_test.m: Test the invariance of the residual (procedure II from [2]). 
 
 
 [1] Du, Kang, and Yu Xiang. "Learning invariant representations under general interventions on the response." arXiv preprint arXiv:2208.10027 (2022).
