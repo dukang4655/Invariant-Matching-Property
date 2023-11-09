@@ -17,7 +17,7 @@ Implementation of the `IMP` and `IMP_inv` algorithms from the work
 
 `IMP_training.m`: The training procedure of `IMP_inv`.  
 
-`IMP_testing.m`: The testing algorithm of `IMP` and `IMP_inv`. 
+`IMP_testing.m`: The testing procedure of `IMP` and `IMP_inv`. 
 
 `run_example.m`: Run examples of Experiment A-3.
 
