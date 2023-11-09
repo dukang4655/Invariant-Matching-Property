@@ -1,6 +1,6 @@
 # Invariant-Matching-Property
 
-Implementation of the `IMP` and `IMP_inv` procedures from the work 
+Implementation of the `IMP` and `IMP_inv` algorithms from the work 
 "Learning invariant representations under general interventions on the response" by Kang Du and Yu Xiang.
 
 >Data Generation: Generate data for Experiment A-3 from [1].
@@ -13,11 +13,11 @@ Implementation of the `IMP` and `IMP_inv` procedures from the work
 
 >Algorithms:
 
-`IMP_inv_training.m`: The `IMP` procedure for training.  
+`IMP_inv_training.m`: The training procedure of `IMP`.  
 
-`IMP_training.m`: The `IMP_inv` procedure for training.  
+`IMP_training.m`: The training procedure of `IMP_inv`.  
 
-`IMP_testing.m`: The testing algorithm for `IMP` and `IMP_inv`. 
+`IMP_testing.m`: The testing algorithm of `IMP` and `IMP_inv`. 
 
 `run_example.m`: Run examples of Experiment A-3.
 
