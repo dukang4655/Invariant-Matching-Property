@@ -1,8 +1,8 @@
 # Invariant-Matching-Property
 
-Data Generation:
+Implementation of the IMP and IMP_inv procedures from the work "Learning invariant representations under general interventions on the response" by Kang Du and Yu Xiang.
 
-Generate data for Experiment A-3 from [1].
+Data Generation: Generate data for Experiment A-3 from [1].
 
 training_data.m: generate training data 
 testing_data.m: generate test data 
