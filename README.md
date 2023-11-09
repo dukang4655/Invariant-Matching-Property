@@ -5,9 +5,9 @@ Implementation of the `IMP` and `IMP_inv` algorithms from the work
 
 >Data Generation: Generate data for Experiment A-3 from [1].
 
-`training_data.m`: generate training data 
+`training_data.m`: Generate training data. 
 
-`testing_data.m`: generate test data 
+`testing_data.m`: Generate test data. 
 
 
 
